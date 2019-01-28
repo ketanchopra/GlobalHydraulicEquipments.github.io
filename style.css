@@ -1,0 +1,61 @@
+.wrapper {
+ width : 1200px ;
+ background : #FFC300;
+ margin : 0 auto 0 auto ;
+}
+
+.heading {
+height : 200px ;
+background : white;
+padding : 10px ;
+text-align : center ;
+color : black ;
+
+
+}
+
+
+.navigation {
+height : 50px ;
+background : #1C2833;
+color : #FFC300 ;
+}
+
+.content {
+min-height : 600px ;
+background :transparent ;
+ 
+width : 980px ;
+float : left ;
+text-align : centre ;
+
+ 
+}
+
+.sidebar{
+width : 200px ;
+float : right ;
+background : transparent ;
+min-height : 600px ;
+}
+
+.footer{
+clear : both ;
+background : #1C2833;
+height : 25px ;
+color:#FFC300  ;
+text-align : center ;
+padding : 20px ;
+}
+
+.button1 {
+    background-color: transparent  ;
+    border: none;
+    color: #FFC300;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16pt;
+
+}
